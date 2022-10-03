@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/taetaehoho/projects/metaportal/ronin-test/target/debug/build/typenum-bbbd944f7adb252c/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/taetaehoho/projects/metaportal/ronin-test/target/debug/build/typenum-bbbd944f7adb252c/out/op.rs
